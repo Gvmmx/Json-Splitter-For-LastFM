@@ -18,7 +18,7 @@ A Python script designed to split large JSON files into smaller chunks, ensuring
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Gvmmx/json-splitter-for-lastFM>
 cd <repository-directory>
 ```
 2. Run the script:
