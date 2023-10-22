@@ -1,4 +1,4 @@
-# JSON File Splitter
+# JSON File Splitter for LastFM
 
 
 A Python script designed to split large JSON files into smaller chunks, ensuring each section conforms to a predefined structure.
